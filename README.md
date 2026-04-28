@@ -303,12 +303,11 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <br><br><br><br><br><br><br><br><br>
 
 <br><br>
-<!--
-<h2><span class="yellow">今日のBGMは、森の中にいるような気分になる癒しサウンド 〜 脳の疲れをとり最高級の休息へ 、一瞬でリラックスできる音、マイナスの感情を消し去り</span></h2>
+<h2><span class="yellow">今日のBGMは、2時間のジブリ癒しリラックス 🌎 夏のジブリBGM ⛅ ジブリのスタジオミュージック</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iS8qWDspiYA?si=87bjtjlHIYrcqXPv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKSFYkw3yh0?si=AcP9JGLPHY8YcCDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
--->
+
 <!--
 <h2><span class="yellow">オリジナルはこちら、Jason Mraz - I'm Yours (Live)</span></h2>
 <div class="youtube-wrapper">
